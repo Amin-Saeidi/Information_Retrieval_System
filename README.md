@@ -1,7 +1,7 @@
 # Information_Retrieval_System
 
 This project focuses on building an Information Retrieval System using pre-trained language models. It involves working with a set of provided documents and aims to arrange these documents in descending order of relevance for a given query, employing the following key methods:
-All the Codes are available in the Notebook[]
+All the Codes are available in the [Notebook](https://github.com/Amin-Saeidi/Information_Retrieval_System/blob/main/Information_Retrieval_System.ipynb).
 
 ## IDF-TF Similarity
 Utilizing term frequency-inverse document frequency (IDF-TF) weights to compute document similarity.
