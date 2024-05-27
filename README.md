@@ -6,7 +6,7 @@ All the Codes are available in the [Notebook](https://github.com/Amin-Saeidi/Inf
 ## IDF-TF Similarity
 Utilizing term frequency-inverse document frequency (IDF-TF) weights to compute document similarity.
 
-## Persian BART Embedding
+## Persian BERT Embedding
 Employing the Persian BART model to embed both questions and documents, subsequently assessing similarity using an appropriate distance metric.
 
 ## Semantic Space Exploration
